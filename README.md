@@ -1,4 +1,4 @@
-# The name of Project
+# The PyNewsBot
 ## What is this?
 ## Why is it good?
 ## What is under the hood?
